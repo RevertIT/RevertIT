@@ -1,4 +1,4 @@
-<h3 align="center"><img src="/revertit-logo.png" height="200rem"></h1>
+<h1 align="center"><img src="/revertit-logo.png" height="200rem"></h1>
 
 ***TL:DR or something like that***
 
@@ -10,4 +10,4 @@
 
 <hr>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RevertIT&theme=transparent&hide_border=true)
+<p align="center"><img src="https://streak-stats.demolab.com?user=RevertIT&theme=transparent&hide_border=true" alt="Streaks" /></p>
